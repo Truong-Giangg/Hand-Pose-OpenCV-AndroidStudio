@@ -1,0 +1,3 @@
+rootProject.name = "Opencv_displayCam"
+include ':app'
+include ':openCVLibrary310'
